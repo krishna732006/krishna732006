@@ -51,6 +51,14 @@ public class Krishna {
 
 </div>
 
+<div align="center">
+
+## 🧩 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/krishna7306?theme=dark&font=Fira%20Code&ext=contest)
+
+</div>
+
 ---
 
 ## 🚀 Featured Projects
