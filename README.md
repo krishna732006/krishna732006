@@ -51,6 +51,8 @@ public class Krishna {
 
 </div>
 
+---
+
 <div align="center">
 
 ## 🧩 LeetCode Stats
