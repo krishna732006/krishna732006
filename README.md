@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnaj07)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnaj732006@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/krishna732006?style=for-the-badge&color=6DB33F&labelColor=0d1117&label=Follow)](https://github.com/krishna732006)
+[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/krishna7306/)
 
 </div>
 
