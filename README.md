@@ -74,7 +74,7 @@ public class Krishna {
 
 - ⚡ Custom short-code generation engine
 - 📊 Redirect tracking & click analytics
-- 🎨 Thymeleaf frontend
+- 🎨 Minimal Thymeleaf UI for backend interaction
 - ☁️ **Live on Render**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
