@@ -1,14 +1,14 @@
 <div align="center">
 
-# 👋 Hey, I'm Krishna J
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a4731,100=6DB33F&height=200&section=header&text=Krishna%20J&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Chennai%2C%20India&descAlignY=58&descSize=18&descColor=6DB33F" width="100%"/>
 
-### Java Backend Developer · Chennai, India
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Spring+Boot+%7C+MySQL+%7C+REST+APIs;JWT+Authentication+%26+Spring+Security;Building+clean%2C+secure+backend+systems;Open+to+roles+%26+internships+🚀)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&lines=Spring+Boot+Developer;REST+API+Architect;JWT+%26+Security+Enthusiast;Always+building+something+new)](https://git.io/typing-svg)
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnaj07)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnaj732006@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishna732006)
+[![GitHub followers](https://img.shields.io/github/followers/krishna732006?style=for-the-badge&color=6DB33F&labelColor=0d1117&label=Follow)](https://github.com/krishna732006)
 
 </div>
 
@@ -19,35 +19,35 @@
 ```java
 public class Krishna {
 
-    String name     = "Krishna J";
-    String location = "Chennai, India 🇮🇳";
-    String role     = "Java Backend Developer";
+    String name      = "Krishna J";
+    String location  = "Chennai, India 🇮🇳";
+    String role      = "Java Backend Developer";
+    String focus     = "Clean architecture · Secure APIs · Real-world systems";
 
-    String[] currentlyBuilding = {"Spring Boot APIs", "Secure auth systems"};
-    String[] openTo            = {"Backend roles", "Internships", "Collaborations"};
+    String[] stack   = {"Spring Boot", "Spring Security", "MySQL", "JWT", "REST APIs"};
+    String[] openTo  = {"Backend roles", "Internships", "Open source collabs"};
 
-    String passionStatement() {
-        return "I build systems that are clean, secure, and actually work.";
+    String motto() {
+        return "Don't just write code. Build systems that last.";
     }
 }
 ```
 
 ---
 
-## 🔧 Tech Stack
-
 <div align="center">
+
+## 🔧 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
@@ -57,72 +57,68 @@ public class Krishna {
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔗 URL Shortener
-**Full-stack URL shortening service**
+> Full-stack URL shortening service — deployed live
 
-- Custom short-code generation
-- Redirect tracking & click count
-- Frontend served via Thymeleaf
+- ⚡ Custom short-code generation engine
+- 📊 Redirect tracking & click analytics
+- 🎨 Thymeleaf frontend
 - ☁️ **Live on Render**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-[View Repo →](https://github.com/krishna732006/url-shortener-springboot)
+**[→ View Repository](https://github.com/krishna732006/url-shortener-springboot)**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎟️ Event Booking System
-**Secure REST API with JWT auth**
+> Secure REST API with full JWT authentication
 
-- User registration & login
-- Role-based access (Admin/User)
-- Full event CRUD operations
-- 🔐 **Stateless JWT Security**
+- 🔐 Stateless JWT authentication
+- 👥 Role-based access — Admin & User
+- 📅 Full event CRUD operations
+- 🛡️ Spring Security integration
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=spring-security&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-[View Repo →](https://github.com/krishna732006/event-booking-system)
+**[→ View Repository](https://github.com/krishna732006/event-booking-system)**
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ✅ Task Manager
-**Clean CRUD REST API**
+> Clean layered REST API for task management
 
-- Full task lifecycle management
-- Mark tasks complete/incomplete
-- Layered architecture (Controller → Service → Repo)
-- 📦 **Spring Data JPA**
+- 📋 Full task lifecycle — create, update, delete
+- ✔️ Mark tasks complete / incomplete
+- 🏗️ Controller → Service → Repository pattern
+- 📦 Spring Data JPA + MySQL
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-[View Repo →](https://github.com/krishna732006/Task-Manager-sb)
+**[→ View Repository](https://github.com/krishna732006/Task-Manager-sb)**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🐍 Data Processing CLI
-**Python automation tool**
+### 🌱 What I'm Learning Next
 
-- Reads & transforms structured data files
-- Command-line interface with argparse
-- Clean output formatting
-- 🛠️ **Pure Python stdlib**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-[View Repo →](https://github.com/krishna732006/deloitte-task)
+- 🐳 Docker & containerization
+- ☁️ AWS cloud deployment
+- 🔄 Microservices architecture
+- 📬 Kafka / RabbitMQ messaging
+- 🧪 JUnit & Mockito testing
 
 </td>
 </tr>
@@ -130,34 +126,23 @@ public class Krishna {
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=krishna732006&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6DB33F&icon_color=6DB33F&text_color=ffffff" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna732006&theme=dark&hide_border=true&background=0d1117&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F" width="48%" />
+## 🎯 2026 Goals
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna732006&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6DB33F&text_color=ffffff" width="40%" />
+| Goal | Status |
+|------|--------|
+| 💼 Land a backend developer role | 🔥 Active |
+| 🐳 Build a Dockerized project | 📌 Planned |
+| ☁️ Deploy on AWS | 📌 Planned |
+| 🤝 Contribute to open source | 📖 Exploring |
 
-</div>
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:0d1117&height=120&section=footer" width="100%"/>
 
-## 📈 Contribution Graph
+### 💼 Open to backend developer roles & internships · 📍 Chennai, India
 
-<div align="center">
-
-[![Krishna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishna732006&bg_color=0d1117&color=6DB33F&line=6DB33F&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Currently open to backend developer roles and internships
-### 📍 Chennai, India · Available for remote work
-
-![Profile Views](https://komarev.com/ghpvc/?username=krishna732006&color=6DB33F&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=krishna732006&color=6DB33F&style=for-the-badge&label=Profile+Views)
 
 </div>
